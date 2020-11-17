@@ -1,0 +1,21 @@
+INTERNET
+
+1 - MDN
+
+2 - W3C
+
+3 - whatwg living standart
+
+4 - W3Schools
+
+===================================================================
+
+LIVROS
+
+5 - O'reilly (html, css, flexbox in css, grid layout in css)
+
+6 - HTML5 e CSS3 (Elizabeth Castro e Bruce Hyslop)
+
+7 - Jon Duckett (html e CSS)
+
+8 - USE A CABEÇA HTML
