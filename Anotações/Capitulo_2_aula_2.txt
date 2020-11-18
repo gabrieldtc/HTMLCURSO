@@ -1,0 +1,34 @@
+O QUE É DOMINIO E HOSPEDAGEM?
+
+a url é aponte entre o seu computador e o DNS
+
+e precisa de um dominio (nome do site),
+
+e precisa de uma hospedagem (local onde fica o site).
+
+TLD top level domain.
+
+GTLD - dominios genericos (.com, .net, .gov, .store, .io, etc...)
+
+CCTLD - indica o pais aonde o site foi criado (.br, .en, .fr, etc...)
+
+WWW.GITHUB.COM/GUSTAVOGUANBARA - url
+
+GITHUB - dominio
+
+.COM - tld
+
+WWW  - sub-dominio
+
+/GUSTAVOGUANABARA - caminho
+
+
+gustavoguanabara.github.io 
+
+gustavoguanabara - sub-dominio
+
+github.io - dominio
+
+io - tld
+
+

@@ -1,0 +1,9 @@
+HITÓRIA DA INTERNET
+
+Surgiu na gerra fria que foi feita pelo estados unidos e a união sovietica em 1969, logo pq a uniao sovietica tinha lançado o sputnic.
+Foi criado uma organização chamada DARPA para fazer uma comunicação entre as bases militares criando uma pequena rede chamada ARPANET.
+NCP network control protocol(protocolo de controle de rede).
+TCP transfer control protocol. Cria do em 1977.
+IP internet protocol.
+A internet foi criada para proteger bases militares na época da gerra fria. E a internt é um conjunto de pequenas redes. 
+TIM BENERS-LEE criou em 1993 o HTTP, HTML, WWW.

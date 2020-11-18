@@ -1,0 +1,9 @@
+COMO A INTERNET FUNCIONA?
+
+os dados sao representado por 0 e 1 que sao digitis binary (digitos binarios) que sao representados por 8 bit que formam 1 byte.
+o computador so entende ondas quadradas.
+megabytes - usado para armazenamento (MB).
+megabites - usado para transmição (Mb).
+modem tranforma as ondas que o conputador manda (quadratica) nas ondas que o telefone reconhece (cenoidal), e vice e versa.
+www.iplocation.net
+UTF-8 - 
