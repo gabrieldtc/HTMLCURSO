@@ -1,0 +1,11 @@
+diferença entre front, back, full
+
+Front-end - resopnsavel pela parte visual do site
+
+Back-end - responsavel pela parte do servidor (codigo)
+
+Full-stack - faz as duas coisas tanto o visual quanto a parte do servidor.
+
+as tecnologias html, css, js funcionanam do lado do cliente (client-side).
+
+as tecnologias php, js, node funcionam na parte do servidor (server-side).
