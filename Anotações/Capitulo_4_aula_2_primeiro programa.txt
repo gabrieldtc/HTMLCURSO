@@ -1,0 +1,13 @@
+PRIMEIRO PROGRAMA
+
+<head> cabeça
+
+<body> conteudo
+
+windows + e - abre o explorer
+
+<hr> linha horizontal 
+
+<p> paragrafo
+ 
+<h1> titulo principal
