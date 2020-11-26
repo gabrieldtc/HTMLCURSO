@@ -1,0 +1,20 @@
+EMOGS
+
+<!----> -  isso faz comentario
+
+&reg; <!--marca registada-->
+&copy;<!--copyrigth-->
+&trade;<!--trademarck-->
+&euro;<!--euro-->
+&pound;<!--libra-->
+&yen;<!--modeda chinesa-->
+&cent;<!--centavos de dolar-->
+&delta;<!--delta minusculo-->
+&Delta;<!--delta maiusculo-->
+
+https://emojipedia.org/
+
+para uar uma emoji tem que colocar &#x mais uma numero hexadecimal tirado do site acima.
+
+&#x1F596;
+&#x1F913;
