@@ -1,0 +1,7 @@
+PRAGAFO E QUEBRAS
+
+usa- se a TAG br <br> para quebra de linha 
+
+&lt; - menor que 
+
+&gt; - maior que
