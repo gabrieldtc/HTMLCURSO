@@ -1,3 +1,7 @@
 FORMATO DE IMAGENS
 
+jpeg - criado em 1983 ele compacta uma imagem 
+png - criado em 1996 e foi criado pra subistituir o gif e permite tranparencia
+gif -  transparencia e animação
 
+a internet
